@@ -8,7 +8,7 @@ ABOUT ME:
 
 # Projects: 
 - https://sicaru.vercel.app/index.html
-![] https://github.com/user-attachments/assets/e028bb46-0e3c-48cc-b414-912cc1da7101
+![]https://github.com/user-attachments/assets/e028bb46-0e3c-48cc-b414-912cc1da7101
 
 - https://horarios-upiita.vercel.app/
-![] https://github.com/user-attachments/assets/6ee2eba9-9fde-4727-a0cb-aa4f4169dbf8
+![]https://github.com/user-attachments/assets/6ee2eba9-9fde-4727-a0cb-aa4f4169dbf8
